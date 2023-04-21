@@ -1,0 +1,72 @@
+.btn {
+  font-size: 1.5rem;
+  padding: .75rem 1.5rem;
+  width: 70px;
+
+  background-color:  rgb(69, 69, 69);
+  color: white;
+}
+/*hover*/
+.btn-equal:hover{
+  border: 2px white solid;
+}
+.btn:hover{
+  border: 2px white solid;
+}
+.btn-del:hover{
+  border: 2px white solid;
+}
+
+.btn-equal{
+  font-size: 1.5rem;
+  padding: .75rem 1.5rem;
+  width: 140px;
+  background-color:  rgb(22, 76, 109);
+  color: white;
+
+}
+.btn-del{
+  font-size: 1.5rem;
+  padding: .75rem 1.5rem;
+  width: 140px;
+  background-color:  rgb(225, 40, 16);
+  color: white;
+}
+.container{
+  text-align: center;
+  padding: 10px 5px;
+  width: 300px;
+
+  background-color: black;
+  margin: 90px auto;
+  
+}
+.result{
+  font-size: 20px;
+  text-align: right;
+  padding-top: 20px;
+  margin-bottom: 20px;
+  background-color: black;
+  border:0;
+  color: white;
+  font-family: 'Digital Numbers';
+  width: 90%;
+}
+
+.history{
+  font-size: 12px;
+  text-align: right;
+  color: orange;
+  padding-top: 10px;
+  background-color: black;
+  border: 0;
+  font-family: 'Digital Numbers';
+  width: 90%;
+}
+.Button {
+  display: inline-block;
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid #ccc;
+}
+
